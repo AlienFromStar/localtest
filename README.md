@@ -9,3 +9,8 @@ master()
 {
    echo "on master commit"
 }
+
+master_new()
+{
+  echo "master_new"
+}
