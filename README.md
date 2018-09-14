@@ -25,3 +25,10 @@ node1_Add()
 {
  echo "node1_Add"
 }
+
+
+FUN B()
+{
+
+}
+
